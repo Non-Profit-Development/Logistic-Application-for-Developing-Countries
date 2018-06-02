@@ -3,5 +3,5 @@ Create a WEB Non-Profit logistic application in developing countries, all aspect
 
 We think using an PHP framwork then people/institution in developing countries can upload it easily without much configuration vs JavaEE (EJB, JSF...).
 
-By time, will be looking for a sponsor who can share a dedicated server to host this application for people over there who has a limited access to a laptop, then they may handle their logistics via their smartphones.
+By time, will be looking for a sponsor who can share a dedicated server to host this application for people over there who has a limited access to a laptop, then they may handle their logistics via their smartphones online.
 
